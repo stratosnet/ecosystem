@@ -1,7 +1,7 @@
 [
   {
     "projectId": "exoswap",
-    "name": "",
+    "name": "Exoswap",
     "imageUrl": "exoswap_tmp.svg",
     "description": "Exoswap is a Decentralized Application (DApp) that interacts with multiple EVM-based chains like Stratos, Ethereum, BSC, Polygon, and others to provide users with functionalities",
     "website": "https://app.exoswap.io/"
