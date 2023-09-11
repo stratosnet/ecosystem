@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "projectId": "exoswap",
     "name": "Exoswap",
     "imageUrl": "exoswap_tmp.svg",
@@ -7,6 +8,7 @@
     "website": "https://app.exoswap.io/"
   },
   {
+    "id": 2,
     "projectId": "cdn_test",
     "name": "CDN Test Project",
     "imageUrl": "logo.svg",
@@ -14,6 +16,7 @@
     "website": "https://app.exoswap.io/"
   },
   {
+    "id": 3,
     "projectId": "dapp_test",
     "name": "Dapp Test",
     "imageUrl": "logo.svg",
@@ -21,6 +24,7 @@
     "website": "https://app.exoswap.io/"
   },
   {
+    "id": 4,
     "projectId": "wallet_test",
     "name": "Mega Wallet",
     "imageUrl": "logo.svg",
