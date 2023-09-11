@@ -5,7 +5,12 @@
     "name": "Exoswap",
     "imageUrl": "exoswap_tmp.svg",
     "description": "Exoswap is a Decentralized Application (DApp) that interacts with multiple EVM-based chains like Stratos, Ethereum, BSC, Polygon, and others to provide users with functionalities",
-    "website": "https://app.exoswap.io/"
+    "website": "https://app.exoswap.io/",
+    "previewImages": [
+      "img1.svg",
+      "img2.svg",
+      "img3.svg"
+    ]
   },
   {
     "id": 2,
@@ -13,7 +18,12 @@
     "name": "CDN Test Project",
     "imageUrl": "logo.svg",
     "description": "CDN Test Project full description",
-    "website": "https://app.exoswap.io/"
+    "website": "https://app.exoswap.io/",
+    "previewImages": [
+      "img1.svg",
+      "img2.svg",
+      "img3.svg"
+    ]
   },
   {
     "id": 3,
@@ -21,7 +31,12 @@
     "name": "Dapp Test",
     "imageUrl": "logo.svg",
     "description": "CDN Test Project full description",
-    "website": "https://app.exoswap.io/"
+    "website": "https://app.exoswap.io/",
+    "previewImages": [
+      "img1.svg",
+      "img2.svg",
+      "img3.svg"
+    ]
   },
   {
     "id": 4,
@@ -29,6 +44,11 @@
     "name": "Mega Wallet",
     "imageUrl": "logo.svg",
     "description": "CDN Test Project full description",
-    "website": "https://app.exoswap.io/"
+    "website": "https://app.exoswap.io/",
+    "previewImages": [
+      "img1.svg",
+      "img2.svg",
+      "img3.svg"
+    ]
   }
 ]
