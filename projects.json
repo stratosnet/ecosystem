@@ -10,7 +10,11 @@
       "img1.svg",
       "img2.svg",
       "img3.svg"
-    ]
+    ],
+    "metadata": {
+      "twitter": "https://app.exoswap.io/",
+      "discord": "https://discord.exoswap.io/"
+    }
   },
   {
     "id": 2,
