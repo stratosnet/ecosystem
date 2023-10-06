@@ -5,7 +5,7 @@ To add a project to the Stratos Ecosystem, you need to:
 1. Fork this repository.
 2. Add your logo image in a web-safe format to the folder `data/img/<project_id>/`.
 3. Add an entry to the [projects.json](projects.json) file as example below.
-4. Create a PR to 
+4. Create a PR 
 
 
 Criteria:
