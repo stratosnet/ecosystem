@@ -1,15 +1,51 @@
 # Stratos Ecosystem Projects 
 
-To add a project to the Stratos Ecosystem, you need to raise a PR with following information:
+To add a project to the Stratos Ecosystem, you need to:
 
-1. A new entry with the project details need to be added to the `project.json`.
-2. `previewImages` field of that new entry must contain file names for the preview images, which must be 
-located at `data/img/{project_id_you_have_in_the_json_new_entry}/previewImages`.
-3. There must be 3 previewImages in total.
-4. `imageIrl` field of that new entry must contain file name for the app img log, which must be 
-located at `data/img/{imageIrl_value_from_the_json_entry}`.
-5. Id of the project must the next available integer number.
-6. `metadata` field is optional.
+1. Fork this repository.
+2. Add your logo image in a web-safe format to the folder `data/img/<project_id>/`.
+3. Add an entry to the [projects.json](projects.json) file as example below.
+4. Create a PR to 
+
+
+Criteria:
+
+- `id` number must the next available integer number.
+- `<project_id>` can only be string name without any symbol. It will be used as the project page url on ecosystem page.
+- Project website should include explanation of project.
+- The project image specified at `imageUrl` should be small, square, but high resolution, ideally a vector/svg. 
+  located at `data/img/<project_id>/<project_image_name.svg>`
+- There must be 3 previewImages in total, located at `data/img/<project_id>/previewImages/` 
+- `metadata` field is optional. Current supported input are all included in the example below.
+- For smart contract, it's nice to have a verified source code on block explorer.
+- Project have to use Stratos Ecosystem components like Stratos Chain or Stratos Decentralized Storage
+- Project should have clear signs of activity, either traffic on the network, activity on GitHub, or community buzz.
+
+```json
+{
+    "id":  999, 
+    "projectId": "<project_id>",
+    "name": "<project_name>",
+    "imageUrl": "<project_image_name.svg>",
+    "description": "<project_description>",
+    "website": "<project_website_url>",
+    "previewImages": [
+      "img1.svg",
+      "img2.svg",
+      "img3.svg"
+    ],
+    "metadata": {
+      "twitter": "<twitter_link>",
+      "discord": "<discord_link>",
+      "github": "<github_link>",
+      "telegram": "<telegram_link>",
+      "contract": "<smart_contract_address>"
+    }
+  }
+
+
+```
+
 
 
 
