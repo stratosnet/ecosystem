@@ -6,14 +6,13 @@
     "imageUrl": "exoswap_tmp.svg",
     "description": "Exoswap is a Decentralized Application (DApp) that interacts with multiple EVM-based chains like Stratos, Ethereum, BSC, Polygon, and others to provide users with functionalities",
     "website": "https://app.exoswap.io/",
-    "previewImages": [
-      "img1.svg",
-      "img2.svg",
-      "img3.svg"
-    ],
+    "previewImages": ["img1.svg", "img2.svg", "img3.svg"],
     "metadata": {
       "twitter": "https://app.exoswap.io/",
-      "discord": "https://discord.exoswap.io/"
+      "discord": "https://discord.exoswap.io/",
+      "github": "<github_link>",
+      "telegram": "<telegram_link>",
+      "contract": "<smart_contract_address>"
     }
   },
   {
@@ -23,11 +22,7 @@
     "imageUrl": "logo.svg",
     "description": "CDN Test Project full description",
     "website": "https://app.exoswap.io/",
-    "previewImages": [
-      "img1.svg",
-      "img2.svg",
-      "img3.svg"
-    ]
+    "previewImages": ["img1.svg", "img2.svg", "img3.svg"]
   },
   {
     "id": 3,
@@ -36,11 +31,7 @@
     "imageUrl": "logo.svg",
     "description": "CDN Test Project full description",
     "website": "https://app.exoswap.io/",
-    "previewImages": [
-      "img1.svg",
-      "img2.svg",
-      "img3.svg"
-    ]
+    "previewImages": ["img1.svg", "img2.svg", "img3.svg"]
   },
   {
     "id": 4,
@@ -49,10 +40,6 @@
     "imageUrl": "logo.svg",
     "description": "CDN Test Project full description",
     "website": "https://app.exoswap.io/",
-    "previewImages": [
-      "img1.svg",
-      "img2.svg",
-      "img3.svg"
-    ]
+    "previewImages": ["img1.svg", "img2.svg", "img3.svg"]
   }
 ]
