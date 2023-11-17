@@ -3,16 +3,14 @@
     "id": 1,
     "projectId": "exoswap",
     "name": "Exoswap",
-    "imageUrl": "exoswap_tmp.svg",
-    "description": "Exoswap is a Decentralized Application (DApp) that interacts with multiple EVM-based chains like Stratos, Ethereum, BSC, Polygon, and others to provide users with functionalities",
-    "website": "https://app.exoswap.io/",
-    "previewImages": ["img1.svg", "img2.svg", "img3.svg"],
+    "imageUrl": "logo.svg",
+    "description": "Exoswap is a Decentralized Application (DApp) that interacts with multiple EVM-based chains like Stratos, Ethereum, BSC, Polygon, and others to provide users with functionalities such as: \nExoswap bridge (ERC20 token transfer between EVM chains);\nExoswap bridge is a scaling solution for connection between EVM chains with own DEX. Compared to an existing solution for the bridge side, which suffers from slow speed and significantly higher gas costs for its executions, we have taken a different approach. Our method relies on SAO and witnesses to process and verify bridge transactions, ensuring protection against fraud, all while achieving fast confirmation times.\nExoswap bridge is a blockchain application designed to facilitate seamless token transitions between EVM chains. Our hardworking team has been focused on implementing the Nexus bridge, enabling smooth transitions between multiple chains simultaneously.\nArchitecturally, the beauty of Exoswap bridge lies in its simple and straightforward design, which enables fast and cost-effective transactions for transferring tokens between EVM chains.",
+    "website": "https://app.exoswap.io",
+    "previewImages": [],
     "metadata": {
-      "twitter": "https://app.exoswap.io/",
-      "discord": "https://discord.exoswap.io/",
-      "github": "<github_link>",
-      "telegram": "<telegram_link>",
-      "contract": "<smart_contract_address>"
+      "app": "https://app.exoswap.io",
+      "github": "https://github.com/exoswapio",
+      "docs": "https://docs.exoswap.io"
     }
   },
   {
@@ -22,7 +20,11 @@
     "imageUrl": "logo.svg",
     "description": "CDN Test Project full description",
     "website": "https://app.exoswap.io/",
-    "previewImages": ["img1.svg", "img2.svg", "img3.svg"]
+    "previewImages": [
+      "img1.svg",
+      "img2.svg",
+      "img3.svg"
+    ]
   },
   {
     "id": 3,
@@ -31,7 +33,11 @@
     "imageUrl": "logo.svg",
     "description": "CDN Test Project full description",
     "website": "https://app.exoswap.io/",
-    "previewImages": ["img1.svg", "img2.svg", "img3.svg"]
+    "previewImages": [
+      "img1.svg",
+      "img2.svg",
+      "img3.svg"
+    ]
   },
   {
     "id": 4,
@@ -40,6 +46,10 @@
     "imageUrl": "logo.svg",
     "description": "CDN Test Project full description",
     "website": "https://app.exoswap.io/",
-    "previewImages": ["img1.svg", "img2.svg", "img3.svg"]
+    "previewImages": [
+      "img1.svg",
+      "img2.svg",
+      "img3.svg"
+    ]
   }
 ]
