@@ -4,9 +4,12 @@
     "projectId": "exoswap",
     "name": "Exoswap",
     "imageUrl": "logo.svg",
+    "overview": "Exoswap is a Decentralized Swap Connecting Stratos Ecosystem to external Blockchain Ecosystems",
     "description": "Exoswap is a Decentralized Application (DApp) that interacts with multiple EVM-based chains like Stratos, Ethereum, BSC, Polygon, and others to provide users with functionalities such as: \nExoswap bridge (ERC20 token transfer between EVM chains);\nExoswap bridge is a scaling solution for connection between EVM chains with own DEX. Compared to an existing solution for the bridge side, which suffers from slow speed and significantly higher gas costs for its executions, we have taken a different approach. Our method relies on SAO and witnesses to process and verify bridge transactions, ensuring protection against fraud, all while achieving fast confirmation times.\nExoswap bridge is a blockchain application designed to facilitate seamless token transitions between EVM chains. Our hardworking team has been focused on implementing the Nexus bridge, enabling smooth transitions between multiple chains simultaneously.\nArchitecturally, the beauty of Exoswap bridge lies in its simple and straightforward design, which enables fast and cost-effective transactions for transferring tokens between EVM chains.",
     "website": "https://app.exoswap.io",
-    "previewImages": [],
+    "previewImages": [
+
+    ],
     "metadata": {
       "app": "https://app.exoswap.io",
       "github": "https://github.com/exoswapio",
@@ -18,6 +21,7 @@
     "projectId": "cdn_test",
     "name": "CDN Test Project",
     "imageUrl": "logo.svg",
+    "overview": "cdn one sentence overview",
     "description": "CDN Test Project full description",
     "website": "https://app.exoswap.io/",
     "previewImages": [
@@ -31,6 +35,7 @@
     "projectId": "dapp_test",
     "name": "Dapp Test",
     "imageUrl": "logo.svg",
+    "overview": "dapp one sentence overview",
     "description": "CDN Test Project full description",
     "website": "https://app.exoswap.io/",
     "previewImages": [
@@ -44,6 +49,7 @@
     "projectId": "wallet_test",
     "name": "Mega Wallet",
     "imageUrl": "logo.svg",
+    "overview": "wallet one sentence overview",
     "description": "CDN Test Project full description",
     "website": "https://app.exoswap.io/",
     "previewImages": [
