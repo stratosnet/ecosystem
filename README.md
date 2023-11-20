@@ -15,7 +15,7 @@ Criteria:
 - Project website should include explanation of project.
 - The project image specified at `imageUrl` should be small, square, but high resolution, ideally a vector/svg. 
   located at `data/img/<project_id>/<project_image_name.svg>`
-- There must be 2-5 preview images in total, located at `data/img/<project_id>/previewImages/` 
+- There must be 2-5 preview images in total, located at `data/img/<project_id>/previewImages/`  
 - `metadata` field is optional. Current supported input are all included in the example below.
 - For smart contract, it's nice to have a verified source code on block explorer.
 - Project have to use Stratos Ecosystem components like Stratos Chain or Stratos Decentralized Storage
@@ -31,9 +31,9 @@ Criteria:
     "description": "<detailed_project_description>",
     "website": "<project_website_url>",
     "previewImages": [
-      "img1.svg",
-      "img2.svg",
-      "img3.svg"
+      "img1.png",
+      "img2.png",
+      "img3.png"
     ],
     "metadata": {
       "twitter": "<twitter_link>",
