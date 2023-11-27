@@ -21,44 +21,37 @@
   },
   {
     "id": 2,
-    "projectId": "cdn_test",
-    "name": "CDN Test Project",
-    "imageUrl": "logo.svg",
-    "overview": "cdn one sentence overview",
-    "description": "CDN Test Project full description",
-    "website": "https://app.exoswap.io/",
+    "projectId": "bigdipper",
+    "name": "Big Dipper Explorer",
+    "imageUrl": "big-dipper-red-favicon.svg",
+    "overview": "Big Dipper is an open-source block explorer and token management tool serving over 25 proof-of-stake blockchains.",
+    "description": "Big Dipper started as a Cosmos community project in 2018. It was designed as an explorer tool for blockchains that are based on Cosmos SDK, providing optimal user experience with near real-time on-chain data. Big Dipper utilizes different endpoints from Tendermint, Cosmos SDK and the Command Line Interface to aggregate data into a single web interface.",
+    "website": "https://explorer.thestratos.org/stratos",
     "previewImages": [
-      "img1.svg",
-      "img2.svg",
-      "img3.svg"
-    ]
+      "bigdipper-preview-1.png",
+      "bigdipper-preview-2.png",
+      "bigdipper-preview-3.png",
+      "bigdipper-preview-4.png"
+    ],
+    "metadata": {
+      "github": "https://github.com/stratosnet/blockscout/tree/stratos"
+    }
   },
   {
     "id": 3,
-    "projectId": "dapp_test",
-    "name": "Dapp Test",
-    "imageUrl": "logo.svg",
-    "overview": "dapp one sentence overview",
-    "description": "CDN Test Project full description",
-    "website": "https://app.exoswap.io/",
+    "projectId": "blockscout",
+    "name": "Blockscout Explorer",
+    "imageUrl": "Color_BS_symbol.svg",
+    "overview": "Blockscout is a tool for inspecting and analyzing EVM based blockchains.",
+    "description": "Blockscout is optimized for next-level blockchain exploration. Multichain, highly configurable, and open source, the explorer portal opens up access to all chain data and functionality. Search blocks, transactions and addresses, then go beyond to connect and interact with apps, bridges, wallets and more. The blockchain universe is yours to explore!",
+    "website": "https://web3-explorer.thestratos.org/",
     "previewImages": [
-      "img1.svg",
-      "img2.svg",
-      "img3.svg"
-    ]
-  },
-  {
-    "id": 4,
-    "projectId": "wallet_test",
-    "name": "Mega Wallet",
-    "imageUrl": "logo.svg",
-    "overview": "wallet one sentence overview",
-    "description": "CDN Test Project full description",
-    "website": "https://app.exoswap.io/",
-    "previewImages": [
-      "img1.svg",
-      "img2.svg",
-      "img3.svg"
-    ]
+      "blockscout-preview-1.png",
+      "blockscout-preview-2.png",
+      "blockscout-preview-3.png"
+    ],
+    "metadata": {
+      "github": "https://github.com/stratosnet/big-dipper-2.0-cosmos/tree/web-stratos%402.17.2"
+    }
   }
 ]
