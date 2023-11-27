@@ -12,7 +12,8 @@ Criteria:
 
 - `id` number must the next available integer number.
 - `<project_id>` can only be string name without any symbol. It will be used as the project page url on ecosystem page.
-- Project website should include explanation of project.
+- Project website should include explanation of project, the url provided will be used as the redict button on project 
+  detail page .
 - The project image specified at `imageUrl` should be small, square, but high resolution, ideally a vector/svg. 
   located at `data/img/<project_id>/<project_image_name.svg>`
 - There must be 2-5 preview images in total, located at `data/img/<project_id>/previewImages/`  
