@@ -18,6 +18,7 @@ Criteria:
   located at `data/img/<project_id>/<project_image_name.svg>`
 - There must be 2-5 preview images in total, located at `data/img/<project_id>/previewImages/`  
 - `metadata` field is optional. Current supported input are all included in the example below.
+- `tags` should be 1-3 tags that are most related to the project. It will be used to categorize projects for filter
 - For smart contract, it's nice to have a verified source code on block explorer.
 - Project have to use Stratos Ecosystem components like Stratos Chain or Stratos Decentralized Storage
 - Project should have clear signs of activity, either traffic on the network, activity on GitHub, or community buzz.
@@ -31,6 +32,18 @@ Criteria:
     "overview": "<one_sentence_project_overview>",
     "description": "<detailed_project_description>",
     "website": "<project_website_url>",
+    "tags": [
+      "Art",
+      "DeFi",
+      "Developer Tools",
+      "Explorer",
+      "Infrastructure",
+      "Investor",
+      "Gaming",
+      "Other",
+      "Partner",
+      "Wallet"
+    ],
     "previewImages": [
       "img1.png",
       "img2.png",
