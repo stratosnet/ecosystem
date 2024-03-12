@@ -41,7 +41,7 @@
       "bigdipper-preview-4.png"
     ],
     "metadata": {
-      "github": "https://github.com/stratosnet/blockscout/tree/stratos"
+      "github": "https://github.com/stratosnet/big-dipper-2.0-cosmos/tree/web-stratos%402.17.2"
     }
   },
   {
@@ -61,7 +61,312 @@
       "blockscout-preview-3.png"
     ],
     "metadata": {
-      "github": "https://github.com/stratosnet/big-dipper-2.0-cosmos/tree/web-stratos%402.17.2"
+      "github": "https://github.com/stratosnet/blockscout/tree/stratos"
+    }
+  },
+  {
+    "id":  4,
+    "projectId": "polygon",
+    "name": "Polygon",
+    "imageUrl": "Polygon_White_on_Gradient_Square.svg",
+    "overview": "Polygon Labs pioneers Ethereum scaling solutions, fostering widespread adoption among tens of thousands of decentralized apps and well-known enterprises like Aave and Robinhood, while leading the charge towards carbon negativity in Web3.",
+    "description": "Polygon Labs develops Ethereum scaling solutions for Polygon protocols. Polygon Labs engages with other ecosystem developers to help make available scalable, affordable, secure and sustainable blockchain infrastructure for Web3. Polygon Labs has initially developed a growing suite of protocols for developers to gain easy access to major scaling solutions, including Layer 2s (zero-knowledge rollups), sidechains, app-specific chains and data availability protocols. Scaling solutions that Polygon Labs initially developed have seen widespread adoption with tens of thousands of decentralized apps, unique addresses exceeding 350 million, 1.6 million smart contracts created and 3 billion total transactions processed since inception. The existing Polygon network is home for some of the biggest Web3 projects, such as Aave, Uniswap, and OpenSea, and well-known enterprises, including Robinhood, Stripe and Adobe. Polygon Labs is carbon neutral with the goal of leading Web3 in becoming carbon negative.",
+    "website": "https://polygon.technology/",
+    "tags": [
+      "Infrastructure",
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/intent/user?screen_name=0xPolygon",
+      "discord": "https://discord.com/invite/XvpHAxZ",
+      "telegram": "https://t.me/polygonofficial"
+    }
+  },
+  {
+    "id":  5,
+    "projectId": "artizyou",
+    "name": "Artizyou",
+    "imageUrl": "artizyou_logo.png",
+    "overview": "Artizyou™ is a solution dedicated to the protection and promotion of creatives.",
+    "description": "Artizyou™ is a solution dedicated to the protection and promotion of creatives. Artizyou™ uses the highest level of artificial intelligence and the legendary safety of the Blockchain.",
+    "website": "https://artizyou.com/",
+    "tags": [
+      "Art",
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/Artiz_official"
+    }
+  },
+  {
+    "id":  6,
+    "projectId": "devolvedai",
+    "name": "Devolved AI",
+    "imageUrl": "devolvedAI_logo.jpg",
+    "overview": "Devolved AI champions a future where Artificial Intelligence is democratically fueled by a diverse global community, aiming to dismantle AI centralization and ensure its equitable service to all.",
+    "description": "Devolved AI is not merely a tech entity; it is a beacon for a future where Artificial Intelligence is democratically powered by a diverse, global community. Our mission is to dismantle the centralization of AI technology, ensuring it serves the many instead of the few.",
+    "website": "https://www.devolvedai.com/",
+    "tags": [
+      "AI",
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/devolvedai",
+      "discord": "https://discord.com/invite/devolvedai"
+    }
+  },
+  {
+    "id":  7,
+    "projectId": "7077studio",
+    "name": "7007.Studio",
+    "imageUrl": "7007_2.svg",
+    "overview": "7007.studio enables model creators to tokenize and publish their models on the Blockchain, revolutionizing AI through transparent on-chain publishing and fair creator compensation.",
+    "description": "7007.studio allows model creators to publish developed models and establish each model token on Blockchain. It revolutionizes AI with transparent, on-chain model publishing and creator compensation. ",
+    "website": "https://www.7007.studio/",
+    "tags": [
+      "AI",
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/7007_studio",
+      "telegram": "https://t.me/+wUoA1zKgUBIzYzJl"
+    }
+  },
+  {
+    "id":  8,
+    "projectId": "nvidia",
+    "name": "NVIDIA",
+    "imageUrl": "nvidia_logo.png",
+    "overview": "NVIDIA Inception is designed to help startups evolve faster through cutting-edge technology, opportunities to connect with venture capitalists, and access to the latest technical resources from NVIDIA.",
+    "description": "NVIDIA Inception is designed to help startups evolve faster through cutting-edge technology, opportunities to connect with venture capitalists, and access to the latest technical resources from NVIDIA.",
+    "website": "https://www.nvidia.com/en-us/",
+    "tags": [
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/nvidia"
+    }
+  },
+  {
+    "id":  9,
+    "projectId": "tensorage",
+    "name": "Tensorage",
+    "imageUrl": "tensorage.JPG",
+    "overview": "Tensorage is a project running on Bittensor, providing storage to Bittensor for data processing.",
+    "description": "Tensorage is a project running on Bittensor, providing storage to Bittensor for data processing.",
+    "website": "https://bittensor.com/",
+    "tags": [
+      "Infrastructure",
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "github": "https://github.com/tensorage/tensorage",
+      "docs": "https://docs.bittensor.com/subnet-pages/subnet-7"
+    }
+  },
+  {
+    "id":  10,
+    "projectId": "stakingcabin",
+    "name": "StakingCabin",
+    "imageUrl": "stakingcabin_icon.svg",
+    "overview": "Staking Cabin offers specialized validator services for proof-of-stake protocols, ensuring safe asset staking for participation in the next generation of the internet.",
+    "description": "Specializing in validator services for proof-of-stake protocols.\nParticipate in the next generation of the internet by staking assets safely.",
+    "website": "https://www.stakingcabin.com/",
+    "tags": [
+      "Infrastructure",
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/StakingCabin",
+      "github": "https://github.com/stakingcabin"
+    }
+  },
+  {
+    "id":  11,
+    "projectId": "blocksec",
+    "name": "BlockSec",
+    "imageUrl": "blocksec_logo1.png",
+    "overview": "BlockSec pioneers blockchain security infrastructure with a seasoned team of researchers and experts, known for their publications, zero-day attack discoveries in DeFi, and protection of over $14 million in digital assets.",
+    "description": "BlockSec is dedicated to building blockchain security infrastructure. The team is founded by top-notch security researchers and experienced experts from both academia and industry.We have published multiple blockchain security papers in prestigious conferences, reported several zero-day attacks of DeFi applications, and successfully protected digital assets that are worth more than 14 million dollars by blocking multiple attacks.",
+    "website": "https://blocksec.com/",
+    "tags": [
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/blocksecteam",
+      "discord": "https://discord.com/invite/wa3SexwQTF",
+      "github": "https://github.com/blocksecteam"
+    }
+  },
+  {
+    "id":  12,
+    "projectId": "atlas",
+    "name": "Atlas",
+    "imageUrl": "atlas_logo.png",
+    "overview": "Atlas is a Singapore headquartered global blockchain infrastructure-as-a-service (IAAS) group offering a broad range of value-added services including distributed high-performance computing, node infrastructure, networking, hardware, API support and storage to drive and maintain the Web 3.0 ecosystem.",
+    "description": "Atlas is a Singapore headquartered global blockchain infrastructure-as-a-service (IAAS) group offering a broad range of value-added services including distributed high-performance computing, node infrastructure, networking, hardware, API support and storage to drive and maintain the Web 3.0 ecosystem.",
+    "website": "https://atlasweb3.io/",
+    "tags": [
+      "Infrastructure",
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/atlasweb3group"
+    }
+  },
+  {
+    "id":  13,
+    "projectId": "polkastarter",
+    "name": "Polkastarter",
+    "imageUrl": "icon-square.png",
+    "overview": "Polkastarter leads decentralized fundraising, granting early access to rigorously vetted IDOs, NFT sales, and gaming ventures.",
+    "description": "Polkastarter is a leading decentralized fundraising platform allowing you to participate early in highly-vetted IDOs, NFT sales & gaming projects.",
+    "website": "https://polkastarter.com/",
+    "tags": [
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/polkastarter",
+      "github": "https://github.com/polkastarter",
+      "telegram": "https://t.me/polkastarter"
+    }
+  },
+  {
+    "id":  14,
+    "projectId": "somee",
+    "name": "Somee",
+    "imageUrl": "somee.jpeg",
+    "overview": "SoMee is a blockchain-based, Web3 enabled social media platform redefining social media privacy, control, and monetization.",
+    "description": "SoMee is a blockchain-based, Web3 enabled social media platform redefining social media privacy, control, and monetization.",
+    "website": "https://somee.social/",
+    "tags": [
+      "Partner",
+      "Social"
+    ],
+    "previewImages": [
+      "img1.jpeg",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/SoMeeOfficial",
+      "telegram": "https://t.me/onG_social"
+    }
+  },
+  {
+    "id":  15,
+    "projectId": "coldstack",
+    "name": "ColdStack",
+    "imageUrl": "coldstack_logo.png",
+    "overview": "ColdStack is a Decentralized Cloud Aggregator, which provides an S3 endpoint to the most effective decentralized storages.",
+    "description": "ColdStack is a Decentralized Cloud Aggregator, which provides an S3 endpoint to the most effective decentralized storages.",
+    "website": "https://coldstack.io/",
+    "tags": [
+      "Infrastructure",
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/coldstack_io",
+      "github": "https://github.com/ColdStack-Network/",
+      "telegram": "https://t.me/coldstackio"
+    }
+  },
+  {
+    "id":  16,
+    "projectId": "nodestake",
+    "name": "NodeStake",
+    "imageUrl": "nodestake.png",
+    "overview": "NodeStake is the professional validator, infrastructure provider and IBC relayer.",
+    "description": "NodeStake is the professional validator, infrastructure provider and IBC relayer.",
+    "website": "https://nodestake.org/",
+    "tags": [
+      "Infrastructure",
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/NodeStake_top",
+      "discord": "https://discord.com/invite/puGTkXvkE8"
+    }
+  },
+  {
+    "id":  17,
+    "projectId": "yom",
+    "name": "Yom",
+    "imageUrl": "Yom logo.svg",
+    "overview": "YOM pioneers a cutting-edge decentralized pixel-streaming network tailored for cloud gaming, providing features like voice chat, multiplayer capabilities, cross-device controls, and advanced analytics.",
+    "description": "YOM, known for its state-of-the-art decentralised pixel-streaming network focusing on cloud gaming offering solutions such as voice chat, multiplayer capabilities, cross-device controls, platform and data feed integrations and analytics.",
+    "website": "https://www.yom.ooo/",
+    "tags": [
+      "Gaming",
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/YOMetaverse",
+      "discord": "https://discord.com/invite/yom2024",
+      "telegram": "https://t.me/YOM_community"
     }
   }
 ]
