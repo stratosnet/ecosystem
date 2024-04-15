@@ -368,5 +368,122 @@
       "discord": "https://discord.com/invite/yom2024",
       "telegram": "https://t.me/YOM_community"
     }
+  },
+  {
+    "id":  18,
+    "projectId": "ebunker",
+    "name": "Ebunker",
+    "imageUrl": "ebunker_logo.jpeg",
+    "overview": "Ebunker, a pioneering non-custodial ETH staking service provider, offers Staking as a Service (StaaS) and Validator as a Service (VaaS). ",
+    "description": "Our innovative approach has led to substantial growth, with over 350,000 Ethereum currently staked in our system. We are a strategic partner of Lido, managing 8,906 nodes, and are actively involved in DVT and SSV testing with Lido. Our strategic partnership with SSV last year further affirms our expertise in node operation, as recognized by leading protocols in the industry. Our significant contribution, aside from staking services, is the development of eNode, a home-use Ethereum validator device that democratizes access to Ethereum's network for individuals.",
+    "website": "https://www.ebunker.io/",
+    "tags": [
+      "DeFi",
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/ebunker_eth",
+      "discord": "https://discord.com/invite/nuvw6hmvnK",
+      "telegram": "https://t.me/ebunkerio"
+    }
+  },
+  {
+    "id":  19,
+    "projectId": "nimble",
+    "name": "Nimble Network",
+    "imageUrl": "nimble_logo.jpeg",
+    "overview": "Nimble is building the first-ever decentralized AI framework",
+    "description": "Nimble is building an aggregation layer for AI, enabling enterprise-grade AI to be powered by on-chain infrastructure. The protocol enables composability for AI models, compute, and training data. Developers can leverage models from the world’s AI engineers, data from the public data aggregators, and compute from the globally distributed infrastructure providers to build bespoke applications and custom models. A world class market layer is built to dispatch generic AI operations together with omni-chain access.",
+    "website": "https://www.nimble.technology/",
+    "tags": [
+      "Infrastructure",
+      "Partner",
+      "AI"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/Nimble_Network",
+      "discord": "https://discord.com/invite/nimble",
+      "github": "https://github.com/nimble-technology",
+      "telegram": "https://t.me/nimble_network"
+    }
+  },
+  {
+    "id":  20,
+    "projectId": "emcprotocol",
+    "name": "EMC Protocol",
+    "imageUrl": "emc_logo.png",
+    "overview": "EdgeMatrix Computing (EMC) stands as a pioneering force in the global landscape of AI DePIN and AI computing power application networks. ",
+    "description": "EMC Protocol: This protocol enhances the efficiency of distributed GPU clusters tailored for AI model training and inference services. EMC Hub: Serving as a comprehensive resource for community users, EMC Hub offers access to an AI model library, developer services, and an AI dApp launcher. RWA GPU DeFi: Aimed at improving asset liquidity for nodes and networks, this product also provides innovative financing solutions to stakeholders.",
+    "website": "https://www.edgematrix.pro",
+    "tags": [
+      "Partner",
+      "AI"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/EMCprotocol",
+      "discord": "https://discord.com/invite/nimble",
+      "github": "https://github.com/EMCProtocol-dev",
+      "telegram": "https://t.me/+NGI26KSbBpA3YzA0"
+    }
+  },
+  {
+    "id":  21,
+    "projectId": "nettensor",
+    "name": "Nettensor",
+    "imageUrl": "nettensor_logo.png",
+    "overview": "Nettensor Enabling AI Infrastructure on Blockchain",
+    "description": "Nettensor is an AI Infrastructure service provider that emphasizes ease of access and other additional features such as Privacy Layer and App Chain which are our best products in blockchain and decentralized industry.",
+    "website": "https://www.nettensor.com/",
+    "tags": [
+      "Partner",
+      "AI"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/nettensor",
+      "telegram": "https://t.me/nettensor",
+      "docs": "https://docs.nettensor.com/nettensor-docs"
+    }
+  },
+  {
+    "id":  22,
+    "projectId": "arbitrum",
+    "name": "Arbitrum",
+    "imageUrl": "arbitrum_logo.png",
+    "overview": "Designed with you in mind, Arbitrum is the leading Layer 2 technology that empowers you to explore and build in the largest Layer 1 ecosystem, Ethereum.",
+    "description": "With a powerful suite of Layer 2 scaling solutions, Arbitrum is shaping the future of Ethereum. Arbitrum technology makes it possible for projects to leverage Ethereum's security to build next-gen apps.",
+    "website": "https://arbitrum.io/",
+    "tags": [
+      "Infrastructure",
+      "Partner"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/arbitrum",
+      "discord": "https://discord.gg/arbitrum"
+    }
   }
 ]
