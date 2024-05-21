@@ -486,5 +486,121 @@
       "twitter": "https://twitter.com/arbitrum",
       "discord": "https://discord.gg/arbitrum"
     }
+  },
+  {
+    "id": 23,
+    "projectId": "entangle",
+    "name": "Entangle",
+    "imageUrl": "entangle_logo.svg",
+    "overview": "Entangle infrastructure enables developers to create customized data pathways for on-chain and off-chain data, facilitating communication between smart contracts across any network.",
+    "description": "Entangle is the one-stop shop for any network, protocol, or asset seeking the core primitives necessary to connect to the wider blockchain ecosystem and the tools to source data from both traditional Web2 and Web3 environments. Aligning seamlessly with Consensys’ vision of making web3 universally easy to use, Entangle’s infrastructure can now be leveraged on Linea to simplify complex blockchain functionalities and enhance accessibility, democratizing the technological landscape and delivering a unified, customizable and efficient Web3 ecosystem.",
+    "website": "https://entangle.fi/",
+    "tags": [
+      "Partner",
+      "Infrastructure",
+      "Developer Tool"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/Entanglefi",
+      "telegram": "https://t.me/entangle_community",
+      "discord": "https://discord.com/invite/entangle"
+    }
+  },
+  {
+    "id":  23,
+    "projectId": "iotex",
+    "name": "IoTeX",
+    "imageUrl": "iotex.jpeg",
+    "overview": "IoTeX is a web3 platform that connects smart devices to blockchain Dapps.",
+    "description": "IoTeX is a platform that combines blockchain technology with the Internet of Things (IoT) and smart devices. Its primary business activities include providing fast and secure blockchain solutions, connecting real-world data to decentralized applications (Dapps), and developing blockchain-powered devices such as home security cameras and cellular-IoT prototyping platforms. IoTeX aims to power billions of devices and decentralized applications across the physical and digital world.",
+    "website": "https://iotex.io/",
+    "tags": [
+      "Partner",
+      "DePIN"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/iotex_io",
+      "telegram": "https://t.me/IoTeXGroup",
+      "discord": "https://discord.com/invite/q5eYde2CU7"
+    }
+  },
+  {
+    "id":  24,
+    "projectId": "clusterprotocol",
+    "name": "Cluster Protocol",
+    "imageUrl": "01_COLOR.svg",
+    "overview": "Proof of compute protocol and Open Source Community for decentralized AI models.",
+    "description": "Cluster Protocol is a framework designed to revolutionize the way we approach computation, data sharing, and artificial intelligence. At its core, Cluster Protocol fosters a secure, efficient, and community-driven environment for AI development and deployment powered by Fully Homomorphic Encryption. It bridges the gap between data providers, AI practitioners, and computational resource contributors by leveraging decentralization, privacy-preserving technologies, and collective intelligence.",
+    "website": "https://www.clusterprotocol.io/",
+    "tags": [
+      "Partner",
+      "DePIN",
+      "AI"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/ClusterProtocol",
+      "telegram": "https://t.me/clusterprotocolchat"
+    }
+  },
+  {
+    "id":  25,
+    "projectId": "guardawallet",
+    "name": "Guarda Wallet",
+    "imageUrl": "guarda-shield-logo.png",
+    "overview": "Guarda Wallet is a non-custodial multi-crypto wallet",
+    "description": "Guarda Wallet is a non-custodial multi-crypto wallet that supports over 60 chains and thousands of tokens, providing secure storage and management of crypto assets across web, desktop, and mobile platforms. It empowers users with tools for seamless transactions, staking, and more, all while maintaining full user control over their assets. Guarda's goal is to enhance the accessibility and security of cryptocurrency management, making it easy and safe for users to engage with a wide array of blockchain networks and tokens.",
+    "website": "https://guarda.com/",
+    "tags": [
+      "Partner",
+      "Wallet"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/GuardaWallet",
+      "telegram": "https://twitter.com/GuardaWallet",
+      "github": "https://github.com/guardaco"
+    }
+  },
+  {
+    "id":  26,
+    "projectId": "dedium",
+    "name": "Dedium",
+    "imageUrl": "dedium.jpeg",
+    "overview": "Decentralized GPU Computing Network on Cardano.",
+    "description": "Empowering individuals to harness their idle GPUs, democratizing the GPU market, and earning rewards. This results in lower costs for developers, commercial users, and creators, fostering an environment that encourages innovation.",
+    "website": "https://dedium.io/",
+    "tags": [
+      "Partner",
+      "DePIN",
+      "Infrastructure"
+    ],
+    "previewImages": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ],
+    "metadata": {
+      "twitter": "https://twitter.com/DediumNetwork",
+      "telegram": "https://t.me/dedium"
+    }
   }
 ]
