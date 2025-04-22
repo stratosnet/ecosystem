@@ -443,29 +443,6 @@
     }
   },
   {
-    "id":  21,
-    "projectId": "nettensor",
-    "name": "Nettensor",
-    "imageUrl": "nettensor_logo.png",
-    "overview": "Nettensor Enabling AI Infrastructure on Blockchain",
-    "description": "Nettensor is an AI Infrastructure service provider that emphasizes ease of access and other additional features such as Privacy Layer and App Chain which are our best products in blockchain and decentralized industry.",
-    "website": "https://www.nettensor.com/",
-    "tags": [
-      "Partner",
-      "AI"
-    ],
-    "previewImages": [
-      "img1.png",
-      "img2.png",
-      "img3.png"
-    ],
-    "metadata": {
-      "twitter": "https://twitter.com/nettensor",
-      "telegram": "https://t.me/nettensor",
-      "docs": "https://docs.nettensor.com/nettensor-docs"
-    }
-  },
-  {
     "id":  22,
     "projectId": "arbitrum",
     "name": "Arbitrum",
